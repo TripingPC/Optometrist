@@ -1,7 +1,6 @@
 # Optometrist
-Oculus Modding Tool
 
-Optometrist is a Windows app that allows you to change various aspects of how the Windows Oculus app/drivers behave.
+Optometrist is a Windows app that allows you to change various aspects of how the Oculus app/drivers behave.
 
 ## Current planned features:
 - Disabling the main window of OculusClient.exe to reduce CPU/RAM usage and speed up boot times.
